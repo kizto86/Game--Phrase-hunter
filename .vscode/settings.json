@@ -4,5 +4,6 @@
         "Lbutton",
         "heartimg",
         "usedkeys"
-    ]
+    ],
+    "liveServer.settings.port": 5503
 }
